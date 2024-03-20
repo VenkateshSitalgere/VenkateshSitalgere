@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VenkateshSitalgere
-- 👀 I’m interested in Data Science, ML and AI
+- 👀 I’m interested in Data Science, Analysis, ML and AI
 - 🌱 I’m currently learning Deep Learning and NLP
 - 💞️ I’m looking to collaborate on Data Cleaning, Exploratry, Modeling, Deploying and Visualisation projects
 - 📫 How to reach me sitalgerevenkatesh@gmail.com
