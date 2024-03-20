@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Deep Learning and NLP
 - 💞️ I’m looking to collaborate on Data Cleaning, Exploratry, Modeling, Deploying and Visualisation projects
 - 📫 How to reach me sitalgerevenkatesh@gmail.com
-- 😄 Pronouns: He/Him
 
 
 <!---
